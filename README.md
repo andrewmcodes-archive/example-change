@@ -1,4 +1,5 @@
 # Example::Change
+[![Build Status](https://travis-ci.org/andrewmcodes/example-change.svg?branch=master)](https://travis-ci.org/andrewmcodes/example-change)
 
 Sometimes your `.example` files change and you may never know. This gem will let you know if your config files and your .example file for that config are not in sync.
 
