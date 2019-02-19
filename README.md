@@ -3,6 +3,11 @@
 
 Sometimes your `.example` files change and you may never know. This gem will let you know if your config files and your .example file for that config are not in sync.
 
+## TODOS
+
+- [] create release binstub
+- [] release should update release-notes
+
 ## Installation
 
 Add this line to your application's Gemfile:
